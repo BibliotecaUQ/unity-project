@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Biblioteca.unity
-  isLoaded: 1
-  isActive: 1
