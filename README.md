@@ -9,5 +9,9 @@ Este proyecto desarrollado en unity identifica targets previamente determinados,
 ----
 Al identificar el target, por medio de realidad aumentada se muestran diferentes elementos.
 
-## Descarga
-El proyecto completo se encuentra [aquí](https://drive.google.com/open?id=0B7Y-9yBC-Xdsa2hQcldudmY4dDg)
+## Preview
+
+![](Assets/img/1.jpg)
+
+![](Assets/img/2.jpg)
+
